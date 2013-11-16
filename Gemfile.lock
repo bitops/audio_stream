@@ -1,0 +1,34 @@
+GEM
+  remote: http://rubygems.org/
+  remote: http://gems.rubyforge.org/
+  remote: http://gemcutter.org/
+  specs:
+    RedCloth (4.2.3)
+    activesupport (2.3.9)
+    hoe (2.6.2)
+      rake (>= 0.8.7)
+      rubyforge (>= 2.0.4)
+    json_pure (1.4.6)
+    newgem (1.5.3)
+      RedCloth (>= 4.1.1)
+      activesupport (~> 2.3.4)
+      hoe (>= 2.4.0)
+      rubigen (>= 1.5.3)
+      syntax (>= 1.0.0)
+    rake (0.8.7)
+    rspec (1.2.0)
+    rubigen (1.5.5)
+      activesupport (~> 2.3.5)
+    ruby-mp3info (0.6.13)
+    rubyforge (2.0.4)
+      json_pure (>= 1.1.7)
+    syntax (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hoe (>= 2.1.0)
+  newgem (= 1.5.3)
+  rspec (= 1.2.0)
+  ruby-mp3info (= 0.6.13)

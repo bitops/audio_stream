@@ -1,0 +1,16 @@
+=== 0.0.5 2010-07-07
+
+* Clients can get length of mp3 in milliseconds (rounded from float to int)
+
+=== 0.0.4 2010-07-05
+
+* Clients can get raw bytes
+
+=== 0.0.2 2010-07-05
+
+* Various cleanup
+
+=== 0.0.1 2010-07-04
+
+* 1 major enhancement:
+  * Initial release
