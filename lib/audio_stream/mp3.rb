@@ -17,7 +17,7 @@ module MP3
     def close
       mp3info.close
     end
-    
+   
     def byterate
       millisecond_divisor = 1000
       byterate_in_seconds = kbps_conversion
